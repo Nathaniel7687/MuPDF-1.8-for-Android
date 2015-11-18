@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Project\AndroidStudioProject\mupdf-1.8\src\main\assets"/><source path="D:\Project\AndroidStudioProject\mupdf-1.8\assets"/></dataSet><dataSet config="debug"><source path="D:\Project\AndroidStudioProject\mupdf-1.8\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Project\AndroidStudioProject\MuPDF-1.8-for-Android\src\main\assets"/><source path="D:\Project\AndroidStudioProject\MuPDF-1.8-for-Android\assets"/></dataSet><dataSet config="debug"><source path="D:\Project\AndroidStudioProject\MuPDF-1.8-for-Android\src\debug\assets"/></dataSet></merger>

@@ -4,4 +4,4 @@
 	android:shape="line" >
 	<stroke android:width="6dp" android:color="@color/seek_progress" />
 </shape>
-<!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/drawable/seek_progress.xml -->
+<!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/drawable/seek_progress.xml -->

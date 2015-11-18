@@ -8,4 +8,4 @@
 		android:bottom="16dp" />
 	<solid android:color="@color/busy_indicator" />
 </shape>
-<!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/drawable/busy.xml -->
+<!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/drawable/busy.xml -->

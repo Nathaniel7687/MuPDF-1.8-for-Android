@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/values/colors.xml -->
+    <!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/values/colors.xml -->
     <eat-comment/>
     <color name="busy_indicator">#C0202020</color>
     <color name="button_normal">#00000000</color>
@@ -15,7 +15,7 @@
     <color name="text_normal">#FFFFFF</color>
     <color name="text_pressed">#FFFFFF</color>
     <color name="toolbar">#C0000000</color>
-    <!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/values/strings.xml -->
+    <!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/values/strings.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
     <string name="app_name">MuPDF</string>
@@ -72,7 +72,7 @@
     <string name="underline">Underline</string>
     <string name="version">1.8 (git build)</string>
     <string name="yes">Yes</string>
-    <!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/values/styles.xml -->
+    <!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
         <item name="android:windowBackground">@drawable/tiled_background</item>

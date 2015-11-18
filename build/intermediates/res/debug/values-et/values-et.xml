@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/values-et/strings.xml -->
+    <!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/values-et/strings.xml -->
     <eat-comment/>
     <string name="accept">Nõustu</string>
     <string name="app_name">MuPDF</string>

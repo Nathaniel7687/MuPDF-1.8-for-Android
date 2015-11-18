@@ -7,4 +7,4 @@
 		android:bottom="2dp" />
 	<solid android:color="@color/page_indicator" />
 </shape>
-<!-- From: file:/D:/Project/AndroidStudioProject/mupdf-1.8/res/drawable/page_num.xml -->
+<!-- From: file:/D:/Project/AndroidStudioProject/MuPDF-1.8-for-Android/res/drawable/page_num.xml -->
